@@ -6,3 +6,4 @@ related_posts: false
 ---
 
 A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am on the job marketing now!
